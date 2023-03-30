@@ -41,7 +41,7 @@ function separador(msg){
     console.log(`             ${msg}                                `)
     console.log('=~=~=~==~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=')
 }
-
+//Esta funcao faz separacao final de objetos
 
 function separadorEnd(){
     console.log('=~=~=~==~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=')    
